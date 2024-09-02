@@ -1054,12 +1054,7 @@ const options = {
  *                 type: number
  *                 format: float
  *                 example: 50.0
- *               removeUserIds:
- *                 type: array
- *                 items:
- *                   type: integer
- *                   example: 2
- *               addUserIds:
+ *               userIds:
  *                 type: array
  *                 items:
  *                   type: integer
